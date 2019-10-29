@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "PRIME-NEWS"
+		}
+	],
+	"settings": {
+		"files.trimFinalNewlines": true,
+		"files.trimTrailingWhitespace": true,
+		"files.encoding": "utf8",
+		"editor.fontFamily": "Fira Code",
+		"editor.fontLigatures": true,
+		"debug.toolBarLocation": "docked",
+		"files.exclude": {
+			"**LICENSE": true,
+			"**.md": true,
+			"**.code-workspace": true,
+			"**.gitignore": true
+		}
+	}
+}
