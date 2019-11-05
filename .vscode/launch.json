@@ -1,0 +1,32 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"cwb": "${workspaceRoot}",
+			"name": "P1217_X32A",
+			"smartclientBin": "C:/TOTVS/PROTHEUS_1217A/X32A/protheus/bin/smartclient/smartclient.exe",
+			"program": "${command:AskForProgramName}",
+			"programArguments": [
+				"${command:AskForProgramArguments}"
+			],
+			"enableMultiThread": true,
+			"enableProfile": false,
+			"isMultiSession": true,
+			"isAccessibilityMode": false,
+			"doNotShowSplash": false,
+			"language": "PT",
+			"ignoreFiles": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"args": [],
+			"label": "NewsMail",
+			"description": ""
+		}
+	],
+	"lastProgramExecuted": "NewsMail"
+}

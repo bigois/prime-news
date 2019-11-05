@@ -17,6 +17,7 @@
 			"**.md": true,
 			"**.code-workspace": true,
 			"**.gitignore": true
-		}
+		},
+		"totvsLanguageServer.welcomePage": false
 	}
 }
